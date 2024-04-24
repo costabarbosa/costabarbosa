@@ -1,5 +1,4 @@
 ### Hi there 👋
-![C:\Users\YasminCostaBarbosa\Downloads\images.jfif](link)
 
 <!--
 **costabarbosa/costabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
